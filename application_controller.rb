@@ -3,6 +3,7 @@ require 'bundler'
 require 'lyricfy'
 require 'pp'
 # require 'rspotify'
+# adding random comment to push
 Bundler.require
 
 require_relative 'models/model.rb'
